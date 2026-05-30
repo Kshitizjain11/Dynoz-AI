@@ -73,8 +73,6 @@ dynoz/
       └─ ShowcaseSection.jsx
 ```
 
-If you have other folders (tests, scripts, CI configs), add them here as needed.
-
 ## Contributing
 
 1. Open an issue describing the change.
